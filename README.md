@@ -1,6 +1,6 @@
 # Estatística com o R
 
-Repostório para o curso [Estatística com o R do IFES - ES](https://mooc.cefor.ifes.edu.br/moodle/enrol/index.php?id=596) 
+Repostório de códigos para o curso [Estatística com o R do IFES - ES](https://mooc.cefor.ifes.edu.br/moodle/enrol/index.php?id=596) 
 
 ## Nome do curso:
 
