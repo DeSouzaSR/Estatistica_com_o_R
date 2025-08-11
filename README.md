@@ -1,5 +1,7 @@
 # Estatística com o R
 
+_By Sandro Ricardo De Souza_
+
 Repostório de códigos para o curso [Estatística com o R do IFES - ES](https://mooc.cefor.ifes.edu.br/moodle/enrol/index.php?id=596) 
 
 ## Nome do curso:
