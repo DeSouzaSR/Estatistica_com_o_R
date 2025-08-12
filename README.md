@@ -2,6 +2,8 @@
 
 _By Sandro Ricardo De Souza_
 
+12/08/2025
+
 Repostório de códigos para o curso [Estatística com o R do IFES - ES](https://mooc.cefor.ifes.edu.br/moodle/enrol/index.php?id=596) 
 
 ## Nome do curso:
