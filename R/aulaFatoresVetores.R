@@ -1,10 +1,6 @@
 
 
-# Correção da atividade
-# 1 
-meuNome <- 'Sandro'
-
-# 2# Tipos de objetos mais comuns no R: vetores, fatores, matrizes, bases de dados, listas e funções 
+# Tipos de objetos mais comuns no R: vetores, fatores, matrizes, bases de dados, listas e funções 
 
 # Vetores: objetos que podem conter números (inteiros, reais, e outros), textos ou valores lógicos
 # Objeto com um elemento:
@@ -45,8 +41,18 @@ sexo = factor(x=sexo, levels = c("Masculino","Feminino"), labels = c("M","F"), o
 table(sexo)
 vetor1 <- seq(1, 5)
 
+# Correção da atividade
+# 1  
+meuNome <- 'Sandro'
+
+# 2
+vetor1 <- seq(1,5)
+
 # 3
 vetor2 <- vetor1 * (-1)
 
 # 4
 vetor3 <- (vetor1 * vetor2) ^ 2
+
+
+
