@@ -98,3 +98,5 @@ Neste curso, os conteúdos serão apresentados em forma de vídeos, textos ou li
 ## Processo de Avaliação:
 
 No final de cada unidade, o aluno fará uma verificação de aprendizagem por meio de um questionário de autocorreção e feedback automático. O aluno só conseguirá progredir no curso quando finalizar a atividade avaliativa da unidade. Ao todo, serão aplicadas cinco avaliações, que totalizarão 100 pontos. O certificado será emitido para o aluno cujo aproveitamento for igual ou superior a 60 pontos.
+
+Teste
