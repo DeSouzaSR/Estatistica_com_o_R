@@ -37,3 +37,8 @@ erro = t_crit * s / np.sqrt(n)
 
 print("Intervalo de Confiança:")
 print(media - erro, media + erro)
+
+print("Valor médio de USD")
+print(np.mean(usd))
+
+print(usd)
